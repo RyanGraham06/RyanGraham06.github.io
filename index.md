@@ -4,7 +4,7 @@ This is my home page! My name is Ryan Graham and I am a student at [Cal State Fu
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/your_username.
+My GitHub page is http://github.com/RyanGraham06.
 
 ### CPSC 120
 
